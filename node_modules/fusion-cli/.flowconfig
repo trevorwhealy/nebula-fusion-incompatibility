@@ -1,0 +1,15 @@
+[ignore]
+.*/node_modules/.*[^(package)]\.json$
+<PROJECT_ROOT>/dist/.*
+.*/.fusion/.*
+
+[include]
+./src/
+
+[libs]
+
+[lints]
+
+[options]
+
+[strict]

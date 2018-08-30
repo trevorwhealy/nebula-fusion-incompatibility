@@ -1,0 +1,17 @@
+{
+  "name": "babel-plugin-transform-cup-globals",
+  "version": "1.0.1",
+  "description": "Babel plugin for transforming create-universal-package globals",
+  "author": "Ryan Tsao <ryan.j.tsao@gmail.com>",
+  "homepage": "https://github.com/rtsao/create-universal-package",
+  "repository": "git@github.com:rtsao/create-universal-package.git",
+  "bugs": "https://github.com/rtsao/create-universal-package/issues",
+  "scripts": {
+    "test": "echo TODO tests"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">= 6"
+  },
+  "license": "MIT"
+}
